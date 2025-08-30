@@ -18,7 +18,7 @@ Ler e discutir o <em>R para Ciência de Dados</em> (2ª edição), praticando o 
 - **Quando:** segundas, **20h–21h**  
 - **Formato:** online (Google Meet)  
 - **Ritmo sugerido:** 1 capítulo/semana  
-> Pauta por encontro: Abertura (5–10 min) · Discussão (70–80 min) · Encerramento (10–15 min)
+> Pauta por encontro: Abertura (5–10 min) · Discussão (30–40 min) · Encerramento (10–15 min)
 
 ## 🤝 Combinados
 - Respeito e colaboração; todas as perguntas são bem-vindas.  
