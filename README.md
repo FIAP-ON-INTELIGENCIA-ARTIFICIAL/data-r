@@ -28,7 +28,7 @@ Ler e discutir o <em>R para Ciência de Dados</em> (2ª edição), praticando o 
 ---
 
 ## 🧷 Prefácio — visão geral
-A 2ª edição reforça o foco em habilidades práticas de ciência de dados no R (gráficos, programação letrada e reprodutibilidade), organizando o conteúdo em cinco eixos: **visualizar**, **transformar**, **importar**, **programar** e **comunicar**. A tradução PT é um esforço colaborativo da comunidade. *Resumo autoral para fins de estudo.* :contentReference[oaicite:1]{index=1}
+A 2ª edição reforça o foco em habilidades práticas de ciência de dados no R (gráficos, programação letrada e reprodutibilidade), organizando o conteúdo em cinco eixos: **visualizar**, **transformar**, **importar**, **programar** e **comunicar**. A tradução PT é um esforço colaborativo da comunidade. *Resumo autoral para fins de estudo.* 
 
 ---
 
@@ -67,8 +67,7 @@ Marque com **[x]** conforme avançar. Títulos conforme a **tradução PT**.
 - [ ] **Cap. 28 — Quarto**
 - [ ] **Cap. 29 — Formatos para Quarto**
 
-> Baseado no índice oficial PT da 2ª edição. :contentReference[oaicite:2]{index=2}
-
+> Baseado no índice oficial PT da 2ª edição. 
 ---
 
 ## 📚 Materiais úteis
