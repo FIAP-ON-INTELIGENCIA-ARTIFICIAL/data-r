@@ -78,7 +78,7 @@ Marque com **[x]** conforme avançar. Títulos conforme a **tradução PT**.
 ---
 
 ## 👥 Autores
-**Hadley Wickham · Mine Çetinkaya-Rundel · Garrett Grolemund** — autores de *R for Data Science (2e)*, referência prática para trabalhar dados com R e tidyverse. :contentReference[oaicite:6]{index=6}
+**Hadley Wickham · Mine Çetinkaya-Rundel · Garrett Grolemund** — autores de *R for Data Science (2e)*, referência prática para trabalhar dados com R e tidyverse.
 
 <p align="left">
   <img src="assets/autor-hadley-wickham.jpg" alt="Foto de Hadley Wickham" width="110" />
