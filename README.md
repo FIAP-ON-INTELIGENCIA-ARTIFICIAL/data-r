@@ -12,7 +12,7 @@
 ---
 
 ## 📖 Objetivo
-Ler e discutir o <em>R para Ciência de Dados</em> (2ª edição), praticando o fluxo completo de ciência de dados no R (visualizar, transformar, importar, programar e comunicar) com o ecossistema tidyverse. Baseado na tradução oficial PT da 2ª ed. disponível gratuitamente on-line. :contentReference[oaicite:0]{index=0}
+Ler e discutir o <em>R para Ciência de Dados</em> (2ª edição), praticando o fluxo completo de ciência de dados no R (visualizar, transformar, importar, programar e comunicar) com o ecossistema tidyverse. Baseado na tradução oficial PT da 2ª ed. disponível gratuitamente on-line. [https://pt.r4ds.hadley.nz/](https://pt.r4ds.hadley.nz/)
 
 ## 🗓️ Encontros
 - **Quando:** segundas, **20h–21h**  
