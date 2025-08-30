@@ -71,9 +71,9 @@ Marque com **[x]** conforme avançar. Títulos conforme a **tradução PT**.
 ---
 
 ## 📚 Materiais úteis
-- Livro on-line (PT): *R para Ciência de Dados (2ª ed.)*. :contentReference[oaicite:3]{index=3}  
-- Livro on-line (EN): *R for Data Science (2e)*. :contentReference[oaicite:4]{index=4}  
-- Repositório da tradução PT (GitHub). :contentReference[oaicite:5]{index=5}
+- Livro on-line (PT): *R para Ciência de Dados (2ª ed.)*.
+- Livro on-line (EN): *R for Data Science (2e)*. 
+- Repositório da tradução PT (GitHub). 
 
 ---
 
